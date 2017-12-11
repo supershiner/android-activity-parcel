@@ -1,3 +1,0 @@
-## About Project
-
-## Build Settings
